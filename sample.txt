@@ -6,3 +6,5 @@ pull 원격 저장소의 내용을 가져오기
 rebase 테스트해보기
 isuue1 브랜치 커밋 1
 issue1 브랜치 커밋 2
+
+issue2 브랜치 커밋 1 
