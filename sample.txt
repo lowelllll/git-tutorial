@@ -10,4 +10,4 @@ issue1 브랜치 커밋 2
 issue2 브랜치 커밋 1
 issue2 브랜치 커밋 2
 
-
+master 브랜치 커밋 1
